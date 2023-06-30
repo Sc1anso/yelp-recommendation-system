@@ -1,5 +1,5 @@
 # YELP recommendation system
-This is a small project from the Artificial Intelligence course of the Master of Science in Computer Science degree.
+This is a small project from the Artificial Intelligence course of the Master degree in Computer Science.
 The work shows a study between different Machine Learning and Deep Learning techniques to build a recommendation system based on the YELP Open Dataset downloadable here: https://www.yelp.com/dataset
 
 
@@ -29,11 +29,6 @@ The aim of the project is to provide a performance analysis between different Ma
 - Transformers 4.20.1
 
 
-
-## Nome Progetto:
-Studio per la costruzione di un recommender system per lo YELP Open Dataset
-
-
 ## Structure:
 4 modules:
 1) positive_or_negative_review.py
@@ -47,16 +42,11 @@ The structure is as follows:
 - data: directory containing all input files required for execution;
 - plots: directory containing the graphs obtained from the execution of the comparison of techniques for solving the 4 problems addressed;
 - saved_models: directory containing the saved weights of the ML models used to speed up execution;
-- demo.py: demo executable
+- demo.py: demo executable.
 
 
 
-## Esecuzione
-Per eseguire la dimostrazione del progetto svolto basta digitare da terminale "python demo.py" e avrà inizio la dimostrazione.
-Una volta avviata la demo sarà possibile scegliere se eseguire la demo vera e propria (che utilizza solo le configurazioni migliori) oppure la comparazione tra tutti gli algoritmi mostrati.
-
-
-
-## Autori e documentazione
-Il progetto è stato realizzato dal gruppo AI_VDF composto da Giacomo Vallasciani, Giuseppe Di Maria, Alessandro Fabbri.
-In allegato alla repository del progetto, è presente una documentazione in formato .pdf in cui si illustrano dettagliatamente le fasi di sviluppo del programma e infine gli output finali ottenuti, dopo le varie fasi di training e di test.
+## Download and execution
+- clone the repository;
+- run on terminal "python demo.py".
+Then you can choose if execute only the demo or the entire comparison study between each technology implemented.
