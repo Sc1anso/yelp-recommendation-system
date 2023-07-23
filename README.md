@@ -1,6 +1,6 @@
 # YELP recommendation system
 This is a small project from the Artificial Intelligence course of the Master degree in Computer Science.
-The work shows a study between different Machine Learning and Deep Learning techniques to build a recommendation system based on the YELP Open Dataset downloadable here: https://www.yelp.com/dataset
+The work shows a study between different Machine Learning and Deep Learning techniques to build a recommendation system based on the [YELP Open Dataset](https://www.yelp.com/dataset)
 
 
 
