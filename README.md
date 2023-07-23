@@ -49,4 +49,5 @@ The structure is as follows:
 ## Download and execution
 - clone the repository;
 - run on terminal "python demo.py".
+
 Then you can choose if execute only the demo or the entire comparison study between each technology implemented.
